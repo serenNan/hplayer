@@ -44,3 +44,5 @@ mingw64
 # mine
 3rd/include/opencv2
 3rd/include/qt5
+
+build
